@@ -2,4 +2,4 @@
 
 # Hi, I’m Jacob #
 
-I'm a professional web developer focused on exploiting the power of JavaScript and it's frameworks. My favorite framework is React because it allows me to create efficient web applications. 
+I’m a Front end website developer who loves to learn about new things.
