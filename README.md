@@ -1,4 +1,4 @@
-<img src="https://github.com/transformerjnm/transformerjnm/blob/master/ReadMe.png" alt="Banner that says Jacob Mitchell, Web Based Problem Solving">
+<img src="https://github.com/transformerjnm/transformerjnm/blob/master/computer-desk-with-tech-items.webp" alt="A computer desk with tech items">
 
 # Hi, I’m Jacob #
 
